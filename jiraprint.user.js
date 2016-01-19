@@ -67,5 +67,6 @@ addStyle('#rowForcustomfield_10953 {line-height:normal!important; font-size:15px
 addStyle('.aui-avatar-large {padding-top:0.55em}');
 addStyle('.aui-nav {line-height: normal}');
 addStyle('.issue-body-content {border-bottom:none!important}');
+addStyle('.name {display:none!important}');
 // Writes CSS to the document
 writeStyle(css);
